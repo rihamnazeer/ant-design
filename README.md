@@ -146,7 +146,9 @@ Open your browser and visit http://127.0.0.1:8001 , see more at [Development](ht
 
 ## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-Read our [contributing guide](https://ant.design/docs/react/contributing) and let's build a better antd together.
+Want to contribute to Ant Design? There are a few things you need to know.
+
+We wrote a **[contribution guide](https://ant.design/docs/react/contributing)** to help you get started.
 
 We welcome all contributions. Please read our [CONTRIBUTING.md](https://github.com/ant-design/ant-design/blob/master/.github/CONTRIBUTING.md) first. You can submit any ideas as [pull requests](https://github.com/ant-design/ant-design/pulls) or as [GitHub issues](https://github.com/ant-design/ant-design/issues). If you'd like to improve code, check out the [Development Instructions](https://github.com/ant-design/ant-design/wiki/Development) and have a good time! :)
 
